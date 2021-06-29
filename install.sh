@@ -17,6 +17,8 @@
 #   Usage: sudo ./run_tests.sh
 echo " ____install system____"
 ./src
+chmod +x ./compile.sh
+./compile.sh
 lscpu
   #sleep 5
   # run_flask_virtual_home_test
