@@ -1,3 +1,4 @@
 echo "----------------------------------------------"
-echo "compile.sh"
+echo "mservice.jar"
+java -jar mservice.jar
 lscpu
