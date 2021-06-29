@@ -16,7 +16,7 @@
 #   Description: unit and integration tests for cirque
 #   Usage: sudo ./run_tests.sh
 echo " ____install system____"
-
+./src
 lscpu
   #sleep 5
   # run_flask_virtual_home_test
